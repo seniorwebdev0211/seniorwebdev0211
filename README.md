@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning AWS and Azure DevOps.
 - 💞️ I’m looking to collaborate on React, Vue, Angular, Laravel, Python/Django development.
 - 📫 You can reach me with Skype or other communication tools.
-      My skype id: live:.cid.562f10ee267e6e7c
-      My Gmail: tomallendeveloper@gmail.com
+      - My skype id: live:.cid.562f10ee267e6e7c
+      - My Gmail: tomallendeveloper@gmail.com
